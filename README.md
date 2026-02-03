@@ -1,4 +1,4 @@
-<h1 align="center">Hey I'm Rashid Nissar having experience in DevOps </h1>
+<h1 align="center">Hey I'm Rashid Nissar  and I having experience in DevOps </h1>
 
 ###
 
