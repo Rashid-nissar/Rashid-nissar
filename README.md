@@ -40,6 +40,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=dark&hide_border=false)
 
 
+## 🌐 Socials:
+ ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rashid-nissar-wani-450841377)
+
+
 ###
 
 <div align="center">
